@@ -1,0 +1,58 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "Matthew Nicoletti" [ref=e5] [cursor=pointer]:
+      - /url: index.html
+    - navigation "Main" [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: index.html
+      - link "Papers" [ref=e8] [cursor=pointer]:
+        - /url: papers.html
+      - link "Talks" [ref=e9] [cursor=pointer]:
+        - /url: talks.html
+  - generic [ref=e10]:
+    - heading "Papers" [level=1] [ref=e11]
+    - list [ref=e12]:
+      - listitem [ref=e13]:
+        - text: Perfect t-embeddings of doubly periodic Aztec diamonds, with Tomas Berggren and Marianna Russkikh, preprint, 2025.
+        - link "arXiv" [ref=e14] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2508.04938
+      - listitem [ref=e15]:
+        - text: Temperleyan domino tilings with holes, preprint, 2025.
+        - link "arXiv" [ref=e16] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2503.12082
+      - listitem [ref=e17]:
+        - text: Gaussian free field and discrete Gaussians in periodic dimer models, with Tomas Berggren, preprint, 2025.
+        - link "arXiv" [ref=e18] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2502.07241
+      - listitem [ref=e19]:
+        - text: "Colored interacting particle systems on the ring: Stationary measures from Yang-Baxter equations, with Amol Aggarwal and Leonid Petrov, Compositio Mathematica, 2025."
+        - link "arXiv" [ref=e20] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2309.11865
+      - listitem [ref=e21]:
+        - text: Six-vertex model and random matrix distributions, with Vadim Gorin, Bulletin of the American Mathematical Society, 2025.
+        - link "arXiv" [ref=e22] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2309.12495
+      - listitem [ref=e23]:
+        - text: Local statistics and shuffling for dimers on a square-hexagon lattice, Annales de l'Institut Henri Poincare B, 2025.
+        - link "arXiv" [ref=e24] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2211.14682
+      - listitem [ref=e25]:
+        - text: Perfect t-embeddings and lozenge tilings, with Tomas Berggren and Marianna Russkikh, preprint, 2024.
+        - link "arXiv" [ref=e26] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2408.05441
+      - listitem [ref=e27]:
+        - text: Shuffling algorithm for coupled tilings of the Aztec diamond, with David Keating, Annales Henri Poincare, 2024.
+        - link "arXiv" [ref=e28] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2303.09089
+      - listitem [ref=e29]:
+        - text: Perfect t-embeddings of uniformly weighted Aztec diamonds and tower graphs, with Tomas Berggren and Marianna Russkikh, International Mathematics Research Notices, 2024.
+        - link "arXiv" [ref=e30] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2303.10045
+      - listitem [ref=e31]:
+        - text: Irreversible Markov dynamics and hydrodynamics for KPZ states in the stochastic six vertex model, with Leonid Petrov, Electronic Journal of Probability, 2023.
+        - link "arXiv" [ref=e32] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/2201.12497
+      - listitem [ref=e33]:
+        - text: Arctic curves phenomena for bounded lecture hall tableaux, with Sylvie Corteel and David Keating, Communications in Mathematical Physics, 2021.
+        - link "arXiv" [ref=e34] [cursor=pointer]:
+          - /url: https://arxiv.org/abs/1905.02881

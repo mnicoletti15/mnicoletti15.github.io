@@ -1,0 +1,306 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e3]:
+    - navigation "Primary" [ref=e4]:
+      - link "Matthew Nicoletti" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+      - generic [ref=e6]:
+        - link "Research" [ref=e7] [cursor=pointer]:
+          - /url: "#research"
+        - link "Papers" [ref=e8] [cursor=pointer]:
+          - /url: "#papers"
+        - link "Activity" [ref=e9] [cursor=pointer]:
+          - /url: "#activity"
+        - link "Simulations" [ref=e10] [cursor=pointer]:
+          - /url: "#simulations"
+    - banner [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: Probability, combinatorics, and mathematical physics
+          - heading "Matthew Nicoletti" [level=1] [ref=e15]
+          - paragraph [ref=e16]: I am a Szego Assistant Professor in the Department of Mathematics at Stanford University. My research interests include interacting particle systems, random tilings, dimer models, and exactly solvable models in statistical mechanics.
+          - generic [ref=e17]:
+            - link "Email" [ref=e18] [cursor=pointer]:
+              - /url: mailto:nicoletm@stanford.edu
+            - link "Google Scholar" [ref=e19] [cursor=pointer]:
+              - /url: https://scholar.google.com/scholar?hl=en&q=%22Matthew+Nicoletti%22
+            - link "arXiv" [ref=e20] [cursor=pointer]:
+              - /url: https://arxiv.org/search/?query=Matthew+Nicoletti&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+            - link "ORCID" [ref=e21] [cursor=pointer]:
+              - /url: https://orcid.org/0000-0001-7946-6978
+          - generic "Current profile" [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e24]: Current role
+              - strong [ref=e25]: Szego Assistant Professor, Stanford Mathematics
+            - generic [ref=e26]:
+              - generic [ref=e27]: Contact
+              - strong [ref=e28]: nicoletm@stanford.edu, Building 380, 382-Q1
+            - generic [ref=e29]:
+              - generic [ref=e30]: Background
+              - strong [ref=e31]: PhD, MIT; BA, UC Berkeley
+          - generic "Publication stats" [ref=e32]:
+            - generic [ref=e33]:
+              - text: Papers
+              - strong [ref=e34]: "11"
+              - text: indexed publications and preprints
+            - generic [ref=e35]:
+              - text: Published
+              - strong [ref=e36]: "7"
+              - text: journal articles as of March 2026
+            - generic [ref=e37]:
+              - text: Preprints
+              - strong [ref=e38]: "4"
+              - text: current arXiv manuscripts
+        - complementary "Portrait and research themes" [ref=e39]:
+          - img "Portrait of Matthew Nicoletti" [ref=e40]
+          - generic [ref=e41]:
+            - generic [ref=e42]: Stanford University
+            - generic "Research areas" [ref=e43]:
+              - generic [ref=e44]: Interacting particle systems
+              - generic [ref=e45]: Dimer models and tilings
+              - generic [ref=e46]: Six-vertex models
+              - generic [ref=e47]: T-embeddings
+              - generic [ref=e48]: Integrable probability
+    - main [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - paragraph [ref=e53]: Research
+            - heading "Research interests" [level=2] [ref=e54]
+          - paragraph [ref=e55]: My work moves between exact solvability and asymptotic questions in probability and statistical mechanics, with a particular emphasis on six-vertex models, dimers, random tilings, and geometric approaches such as t-embeddings.
+        - generic [ref=e56]:
+          - article [ref=e57]:
+            - paragraph [ref=e58]: Lattice models
+            - heading "Exactly solvable models" [level=3] [ref=e59]
+            - paragraph [ref=e60]: Recent work studies six-vertex models and related interacting particle systems through integrable structure, hydrodynamics, and distributional limits.
+          - article [ref=e61]:
+            - paragraph [ref=e62]: Geometry
+            - heading "Dimers and t-embeddings" [level=3] [ref=e63]
+            - paragraph [ref=e64]: A second line of work develops geometric tools for Aztec diamonds, lozenge tilings, tower graphs, and doubly periodic dimer models.
+          - article [ref=e65]:
+            - paragraph [ref=e66]: Fluctuations
+            - heading "Fluctuations and Gaussian limits" [level=3] [ref=e67]
+            - paragraph [ref=e68]: Current projects examine Gaussian free field limits, discrete Gaussian corrections, and fluctuations in multiply connected or periodic settings.
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - paragraph [ref=e72]: Publications
+            - heading "All papers" [level=2] [ref=e73]
+          - paragraph [ref=e74]: Papers and preprints. The list below includes the publications from the existing site together with later indexed preprints and journal appearances.
+        - generic [ref=e75]:
+          - complementary "Paper filters" [ref=e76]:
+            - generic [ref=e77]:
+              - generic [ref=e78]: Search papers
+              - searchbox "Search papers" [ref=e79]
+            - generic [ref=e80]:
+              - generic [ref=e81]: Quick filters
+              - generic [ref=e82]:
+                - button "All" [pressed] [ref=e83] [cursor=pointer]
+                - button "Published" [ref=e84] [cursor=pointer]
+                - button "Preprints" [ref=e85] [cursor=pointer]
+                - button "Solo" [ref=e86] [cursor=pointer]
+                - button "Collaborations" [ref=e87] [cursor=pointer]
+                - button "Dimers" [ref=e88] [cursor=pointer]
+                - button "Six-vertex" [ref=e89] [cursor=pointer]
+            - generic [ref=e90]:
+              - generic [ref=e91]: Sort
+              - combobox "Sort" [ref=e92]:
+                - option "Newest first" [selected]
+                - option "Oldest first"
+                - option "Title A-Z"
+            - paragraph [ref=e93]: Showing all 11 papers.
+            - generic [ref=e94]:
+              - paragraph [ref=e95]: Featured paper
+              - heading "Perfect t-embeddings of doubly periodic Aztec diamonds" [level=3] [ref=e96]
+              - paragraph [ref=e97]: 2025 · Preprint · arXiv:2508.04938
+              - paragraph [ref=e98]: with Tomas Berggren and Marianna Russkikh
+              - paragraph [ref=e99]: Develops perfect t-embeddings for doubly periodic Aztec diamonds and extends the geometric toolkit behind periodic dimer models.
+              - generic [ref=e100]:
+                - generic [ref=e101]: T-embeddings
+                - generic [ref=e102]: Dimers
+                - generic [ref=e103]: Aztec diamonds
+              - link "arXiv" [ref=e105] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2508.04938
+          - generic [ref=e107]:
+            - 'button "2025 · Published Colored interacting particle systems on the ring: Stationary measures from Yang-Baxter equations Compositio Mathematica with Amol Aggarwal and Leonid Petrov Particle systems Yang-Baxter Integrable probability" [ref=e108] [cursor=pointer]':
+              - generic [ref=e109]: 2025 · Published
+              - 'heading "Colored interacting particle systems on the ring: Stationary measures from Yang-Baxter equations" [level=3] [ref=e110]'
+              - paragraph [ref=e111]: Compositio Mathematica
+              - paragraph [ref=e112]: with Amol Aggarwal and Leonid Petrov
+              - generic [ref=e113]:
+                - generic [ref=e114]: Particle systems
+                - generic [ref=e115]: Yang-Baxter
+                - generic [ref=e116]: Integrable probability
+            - button "2025 · Preprint Gaussian free field and discrete Gaussians in periodic dimer models arXiv:2502.07241 with Tomas Berggren Dimers Gaussian free field Aztec diamonds" [ref=e117] [cursor=pointer]:
+              - generic [ref=e118]: 2025 · Preprint
+              - heading "Gaussian free field and discrete Gaussians in periodic dimer models" [level=3] [ref=e119]
+              - paragraph [ref=e120]: arXiv:2502.07241
+              - paragraph [ref=e121]: with Tomas Berggren
+              - generic [ref=e122]:
+                - generic [ref=e123]: Dimers
+                - generic [ref=e124]: Gaussian free field
+                - generic [ref=e125]: Aztec diamonds
+            - button "2025 · Published Local statistics and shuffling for dimers on a square-hexagon lattice Annales de l'Institut Henri Poincare B solo paper Dimers Shuffling Square-hexagon lattice" [ref=e126] [cursor=pointer]:
+              - generic [ref=e127]: 2025 · Published
+              - heading "Local statistics and shuffling for dimers on a square-hexagon lattice" [level=3] [ref=e128]
+              - paragraph [ref=e129]: Annales de l'Institut Henri Poincare B
+              - paragraph [ref=e130]: solo paper
+              - generic [ref=e131]:
+                - generic [ref=e132]: Dimers
+                - generic [ref=e133]: Shuffling
+                - generic [ref=e134]: Square-hexagon lattice
+            - button "2025 · Preprint Perfect t-embeddings of doubly periodic Aztec diamonds arXiv:2508.04938 with Tomas Berggren and Marianna Russkikh T-embeddings Dimers Aztec diamonds" [pressed] [ref=e135] [cursor=pointer]:
+              - generic [ref=e136]: 2025 · Preprint
+              - heading "Perfect t-embeddings of doubly periodic Aztec diamonds" [level=3] [ref=e137]
+              - paragraph [ref=e138]: arXiv:2508.04938
+              - paragraph [ref=e139]: with Tomas Berggren and Marianna Russkikh
+              - generic [ref=e140]:
+                - generic [ref=e141]: T-embeddings
+                - generic [ref=e142]: Dimers
+                - generic [ref=e143]: Aztec diamonds
+            - button "2025 · Published Six-vertex model and random matrix distributions Bulletin of the American Mathematical Society with Vadim Gorin Six-vertex Random matrices Integrable probability" [ref=e144] [cursor=pointer]:
+              - generic [ref=e145]: 2025 · Published
+              - heading "Six-vertex model and random matrix distributions" [level=3] [ref=e146]
+              - paragraph [ref=e147]: Bulletin of the American Mathematical Society
+              - paragraph [ref=e148]: with Vadim Gorin
+              - generic [ref=e149]:
+                - generic [ref=e150]: Six-vertex
+                - generic [ref=e151]: Random matrices
+                - generic [ref=e152]: Integrable probability
+            - button "2025 · Preprint Temperleyan domino tilings with holes arXiv:2503.12082 solo paper Dimers Gaussian free field Discrete Gaussians" [ref=e153] [cursor=pointer]:
+              - generic [ref=e154]: 2025 · Preprint
+              - heading "Temperleyan domino tilings with holes" [level=3] [ref=e155]
+              - paragraph [ref=e156]: arXiv:2503.12082
+              - paragraph [ref=e157]: solo paper
+              - generic [ref=e158]:
+                - generic [ref=e159]: Dimers
+                - generic [ref=e160]: Gaussian free field
+                - generic [ref=e161]: Discrete Gaussians
+            - button "2024 · Preprint Perfect t-embeddings and lozenge tilings arXiv:2408.05441 with Tomas Berggren and Marianna Russkikh T-embeddings Lozenge tilings Dimers" [ref=e162] [cursor=pointer]:
+              - generic [ref=e163]: 2024 · Preprint
+              - heading "Perfect t-embeddings and lozenge tilings" [level=3] [ref=e164]
+              - paragraph [ref=e165]: arXiv:2408.05441
+              - paragraph [ref=e166]: with Tomas Berggren and Marianna Russkikh
+              - generic [ref=e167]:
+                - generic [ref=e168]: T-embeddings
+                - generic [ref=e169]: Lozenge tilings
+                - generic [ref=e170]: Dimers
+            - button "2024 · Published Perfect t-embeddings of uniformly weighted Aztec diamonds and tower graphs International Mathematics Research Notices with Tomas Berggren and Marianna Russkikh T-embeddings Aztec diamonds Tower graphs" [ref=e171] [cursor=pointer]:
+              - generic [ref=e172]: 2024 · Published
+              - heading "Perfect t-embeddings of uniformly weighted Aztec diamonds and tower graphs" [level=3] [ref=e173]
+              - paragraph [ref=e174]: International Mathematics Research Notices
+              - paragraph [ref=e175]: with Tomas Berggren and Marianna Russkikh
+              - generic [ref=e176]:
+                - generic [ref=e177]: T-embeddings
+                - generic [ref=e178]: Aztec diamonds
+                - generic [ref=e179]: Tower graphs
+            - button "2024 · Published Shuffling algorithm for coupled tilings of the Aztec diamond Annales Henri Poincare with David Keating Aztec diamonds Shuffling Dimers" [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]: 2024 · Published
+              - heading "Shuffling algorithm for coupled tilings of the Aztec diamond" [level=3] [ref=e182]
+              - paragraph [ref=e183]: Annales Henri Poincare
+              - paragraph [ref=e184]: with David Keating
+              - generic [ref=e185]:
+                - generic [ref=e186]: Aztec diamonds
+                - generic [ref=e187]: Shuffling
+                - generic [ref=e188]: Dimers
+            - button "2023 · Published Irreversible Markov dynamics and hydrodynamics for KPZ states in the stochastic six vertex model Electronic Journal of Probability with Leonid Petrov Six-vertex KPZ Hydrodynamics" [ref=e189] [cursor=pointer]:
+              - generic [ref=e190]: 2023 · Published
+              - heading "Irreversible Markov dynamics and hydrodynamics for KPZ states in the stochastic six vertex model" [level=3] [ref=e191]
+              - paragraph [ref=e192]: Electronic Journal of Probability
+              - paragraph [ref=e193]: with Leonid Petrov
+              - generic [ref=e194]:
+                - generic [ref=e195]: Six-vertex
+                - generic [ref=e196]: KPZ
+                - generic [ref=e197]: Hydrodynamics
+            - button "2021 · Published Arctic curves phenomena for bounded lecture hall tableaux Communications in Mathematical Physics with Sylvie Corteel and David Keating Arctic curves Lecture hall tableaux Asymptotics" [ref=e198] [cursor=pointer]:
+              - generic [ref=e199]: 2021 · Published
+              - heading "Arctic curves phenomena for bounded lecture hall tableaux" [level=3] [ref=e200]
+              - paragraph [ref=e201]: Communications in Mathematical Physics
+              - paragraph [ref=e202]: with Sylvie Corteel and David Keating
+              - generic [ref=e203]:
+                - generic [ref=e204]: Arctic curves
+                - generic [ref=e205]: Lecture hall tableaux
+                - generic [ref=e206]: Asymptotics
+      - generic [ref=e207]:
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - paragraph [ref=e210]: Activity
+            - heading "Appointments and talks" [level=2] [ref=e211]
+          - paragraph [ref=e212]: Recent appointments, selected talks, and teaching or organizing work across Stanford, Berkeley, and MIT.
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - paragraph [ref=e215]: Appointments
+            - generic [ref=e216]:
+              - article [ref=e217]:
+                - generic [ref=e218]: 2025-present
+                - heading "Szego Assistant Professor, Stanford University" [level=3] [ref=e219]
+                - paragraph [ref=e220]: Department of Mathematics, Stanford University.
+              - article [ref=e221]:
+                - generic [ref=e222]: 2024-2025
+                - heading "NSF postdoctoral fellow, UC Berkeley" [level=3] [ref=e223]
+                - paragraph [ref=e224]: Postdoctoral appointment in Berkeley following the PhD at MIT.
+              - article [ref=e225]:
+                - generic [ref=e226]: "2024"
+                - heading "PhD in Mathematics, MIT" [level=3] [ref=e227]
+                - paragraph [ref=e228]: Advised by Alexei Borodin.
+              - article [ref=e229]:
+                - generic [ref=e230]: "2019"
+                - heading "BA in Mathematics and Computer Science, UC Berkeley" [level=3] [ref=e231]
+                - paragraph [ref=e232]: Honors program, with undergraduate roots already linking combinatorics and probability.
+          - generic [ref=e233]:
+            - paragraph [ref=e234]: Selected recent talks and service
+            - generic [ref=e235]:
+              - article [ref=e236]:
+                - generic [ref=e237]: January 26, 2026
+                - heading "Current fluctuations in the Toda lattice" [level=3] [ref=e238]
+                - paragraph [ref=e239]: Stanford University.
+              - article [ref=e240]:
+                - generic [ref=e241]: May 5, 2025
+                - 'heading "The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians" [level=3] [ref=e242]'
+                - paragraph [ref=e243]: MIT Probability Seminar.
+              - article [ref=e244]:
+                - generic [ref=e245]: February 6, 2025
+                - 'heading "The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians" [level=3] [ref=e246]'
+                - paragraph [ref=e247]: LA Probability Forum / Caltech-UCLA Joint Probability Seminar.
+              - article [ref=e248]:
+                - generic [ref=e249]: 2020-2024
+                - heading "Teaching and organizing" [level=3] [ref=e250]
+                - paragraph [ref=e251]: MIT Integrable Probability Seminar co-organizer, teaching assistantships, and mentoring through DRP and UROP.
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e254]:
+            - paragraph [ref=e255]: Visual work
+            - heading "Visualizations" [level=2] [ref=e256]
+          - paragraph [ref=e257]: Existing local demos and figures are still available here with previews and direct links.
+        - generic [ref=e258]:
+          - complementary [ref=e259]:
+            - generic [ref=e260]:
+              - button "Preview Competitive erosion" [pressed] [ref=e261] [cursor=pointer]:
+                - generic [ref=e262]: Preview
+                - strong [ref=e263]: Competitive erosion
+              - button "Preview Lecture hall tableaux" [ref=e264] [cursor=pointer]:
+                - generic [ref=e265]: Preview
+                - strong [ref=e266]: Lecture hall tableaux
+              - button "Preview T-embeddings" [ref=e267] [cursor=pointer]:
+                - generic [ref=e268]: Preview
+                - strong [ref=e269]: T-embeddings
+          - generic [ref=e270]:
+            - img "Competitive erosion simulation still" [ref=e272]
+            - generic [ref=e273]:
+              - paragraph [ref=e274]: Selected visual
+              - heading "Competitive erosion" [level=3] [ref=e275]
+              - paragraph [ref=e276]: A model for an evolving interface between two competing species, accompanied by local visualization demos and a short slide deck.
+              - generic [ref=e277]:
+                - link "Cylinder demo" [ref=e278] [cursor=pointer]:
+                  - /url: erosion_visualization/CompEros2.html
+                - link "Pill domain demo" [ref=e279] [cursor=pointer]:
+                  - /url: erosion_visualization/pill_shape.html
+                - link "Slides" [ref=e280] [cursor=pointer]:
+                  - /url: erosion_talk.pdf
+    - contentinfo [ref=e281]:
+      - paragraph [ref=e282]:
+        - text: Questions, collaboration inquiries, or accessibility requests can be sent to
+        - link "nicoletm@stanford.edu" [ref=e283] [cursor=pointer]:
+          - /url: mailto:nicoletm@stanford.edu
+        - text: .

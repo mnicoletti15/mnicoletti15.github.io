@@ -1,0 +1,34 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "Matthew Nicoletti" [ref=e5] [cursor=pointer]:
+      - /url: index.html
+    - navigation "Main" [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: index.html
+      - link "Papers" [ref=e8] [cursor=pointer]:
+        - /url: papers.html
+      - link "Talks" [ref=e9] [cursor=pointer]:
+        - /url: talks.html
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - heading "Matthew Nicoletti" [level=1] [ref=e12]
+      - paragraph [ref=e13]: Szego Assistant Professor, Department of Mathematics, Stanford University
+      - paragraph [ref=e14]:
+        - text: nicoletm at stanford dot edu |
+        - link "Google Scholar" [ref=e15] [cursor=pointer]:
+          - /url: https://scholar.google.com/citations?user=QW3OuIIAAAAJ&hl=en&oi=ao
+        - text: "|"
+        - link "arXiv" [ref=e16] [cursor=pointer]:
+          - /url: https://arxiv.org/search/?query=Matthew+Nicoletti&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+        - text: "|"
+        - link "ORCID" [ref=e17] [cursor=pointer]:
+          - /url: https://orcid.org/0000-0001-7946-6978
+      - paragraph [ref=e18]: I am a Szego Assistant Professor in the Department of Mathematics at Stanford University. Before coming to Stanford, I was an NSF Postdoctoral Fellow at UC Berkeley and completed my PhD in mathematics at MIT under the supervision of Alexei Borodin.
+      - generic [ref=e19]:
+        - heading "Former institutions" [level=2] [ref=e20]
+        - list [ref=e21]:
+          - listitem [ref=e22]: Stanford University, Szego Assistant Professor (2025-present).
+          - listitem [ref=e23]: University of California, Berkeley, NSF Postdoctoral Fellow (2024-2025).
+          - listitem [ref=e24]: "Massachusetts Institute of Technology, PhD in Mathematics (2024). Advisor: Alexei Borodin."
+          - listitem [ref=e25]: University of California, Berkeley, BA in Mathematics and Computer Science (2019).
+    - img "Portrait of Matthew Nicoletti" [ref=e27]

@@ -1,0 +1,58 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "Matthew Nicoletti" [ref=e5] [cursor=pointer]:
+      - /url: index.html
+    - navigation "Main" [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: index.html
+      - link "Papers" [ref=e8] [cursor=pointer]:
+        - /url: papers.html
+      - link "Talks" [ref=e9] [cursor=pointer]:
+        - /url: talks.html
+  - generic [ref=e10]:
+    - heading "Selected talks" [level=1] [ref=e11]
+    - paragraph [ref=e12]: A few recent talks with slides are listed below.
+    - list [ref=e13]:
+      - listitem [ref=e14]:
+        - text: Current fluctuations in the Toda lattice
+        - generic [ref=e15]: Stanford Probability Seminar, Stanford University, January 26, 2026.
+        - generic [ref=e16]:
+          - text: "["
+          - link "slides" [ref=e17] [cursor=pointer]:
+            - /url: toda_beamer_talk_outline.pdf
+          - text: "]"
+      - listitem [ref=e18]:
+        - text: "The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians"
+        - generic [ref=e19]: LA Probability Forum / Caltech-UCLA-USC Joint Probability Seminar, February 6, 2025.
+        - generic [ref=e20]:
+          - text: "["
+          - link "slides" [ref=e21] [cursor=pointer]:
+            - /url: LAforum.pdf
+          - text: "]"
+      - listitem [ref=e22]:
+        - text: Stationary Measures of Colored Interacting Particle Systems from Yang--Baxter Equation
+        - generic [ref=e23]: UC Berkeley Probability Seminar, University of California, Berkeley, November 6, 2024.
+        - generic [ref=e24]:
+          - text: "["
+          - link "slides" [ref=e25] [cursor=pointer]:
+            - /url: berkeley_talkNov62024.pdf
+          - text: "]"
+      - listitem [ref=e26]:
+        - text: Perfect t-embeddings of the uniform hexagon
+        - generic [ref=e27]: Institut Mittag-Leffler, Djursholm, Sweden, September 10, 2024.
+        - generic [ref=e28]:
+          - text: "["
+          - link "slides" [ref=e29] [cursor=pointer]:
+            - /url: Sweden_hex_talk.pdf
+          - text: "]"
+      - listitem [ref=e30]:
+        - text: Perfect t-embeddings of uniform Aztec diamond graphs
+        - generic [ref=e31]: "Workshop I: Statistical Mechanics and Discrete Geometry, IPAM, March 29, 2024."
+        - generic [ref=e32]:
+          - text: "["
+          - link "slides" [ref=e33] [cursor=pointer]:
+            - /url: IPAM_talk.pdf
+          - text: "] ["
+          - link "video" [ref=e34] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=AE-xSOlQA04&list=PLHyI3Fbmv0SfFZgzvezUlMFmVlxJI17cJ&index=5
+          - text: "]"

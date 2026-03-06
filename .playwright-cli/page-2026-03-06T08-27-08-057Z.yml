@@ -1,0 +1,48 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "Matthew Nicoletti" [ref=e5] [cursor=pointer]:
+      - /url: index.html
+    - navigation "Main" [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: index.html
+      - link "Papers" [ref=e8] [cursor=pointer]:
+        - /url: papers.html
+      - link "Talks" [ref=e9] [cursor=pointer]:
+        - /url: talks.html
+  - generic [ref=e10]:
+    - heading "Talks" [level=1] [ref=e11]
+    - list [ref=e12]:
+      - listitem [ref=e13]: January 26, 2026. Current fluctuations in the Toda lattice, Stanford Probability Seminar.
+      - listitem [ref=e14]: "May 5, 2025. The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians, MIT Probability Seminar."
+      - listitem [ref=e15]:
+        - text: April 24, 2025.
+        - 'link "The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians" [ref=e16] [cursor=pointer]':
+          - /url: https://calendars.illinois.edu/detail/7421?eventId=33517991
+        - text: ", IRT Seminar, University of Illinois Urbana-Champaign."
+      - listitem [ref=e17]:
+        - text: April 2, 2025.
+        - link "Perfect t-embeddings and Lozenge Tilings" [ref=e18] [cursor=pointer]:
+          - /url: https://math.berkeley.edu/~jlentfer/combinatorics_seminar.html
+        - text: ", UC Berkeley Combinatorics Seminar."
+      - listitem [ref=e19]: "February 6, 2025. The doubly periodic Aztec diamond dimer model: Gaussian free field and discrete Gaussians, LA Probability Forum / Caltech-UCLA-USC Joint Probability Seminar."
+      - listitem [ref=e20]: November 6, 2024. Stationary Measures of Colored Interacting Particle Systems from Yang--Baxter Equation, UC Berkeley Probability Seminar.
+      - listitem [ref=e21]:
+        - text: October 28, 2024.
+        - link "Stationary measures of colored interacting particle systems from Yang-Baxter equation" [ref=e22] [cursor=pointer]:
+          - /url: https://mathematics.stanford.edu/events/stationary-measures-colored-interacting-particle-systems-yang-baxter-equation
+        - text: ", Stanford Probability Seminar."
+      - listitem [ref=e23]:
+        - text: September 10, 2024.
+        - link "Perfect t-embeddings of the uniform hexagon" [ref=e24] [cursor=pointer]:
+          - /url: https://www.mittag-leffler.se/seminar/matthew-nicoletti-perfect-t-embeddings-of-the-uniform-hexagon/
+        - text: ", Institut Mittag-Leffler."
+      - listitem [ref=e25]: April 26, 2024. Richard P. Stanley Seminar in Combinatorics, MIT.
+      - listitem [ref=e26]: February 28, 2024. Harvard Probability Seminar.
+      - listitem [ref=e27]: November 16, 2023. University of Wisconsin Probability Seminar.
+      - listitem [ref=e28]: September 15, 2023. Columbia Probability Seminar.
+      - listitem [ref=e29]: January 27, 2023. UChicago Probability and Statistical Physics Seminar.
+      - listitem [ref=e30]: December 5, 2022. Caltech Analysis Seminar.
+      - listitem [ref=e31]: September 26, 2022. Cornell Probability Seminar.
+      - listitem [ref=e32]: March 2, 2022. Vienna Probability Seminar.
+      - listitem [ref=e33]: March 1, 2022. Solvable Lattice Models Seminar, Stanford.
+      - listitem [ref=e34]: December 3, 2021. Integrable Probability Seminar, MIT.
